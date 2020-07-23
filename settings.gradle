@@ -1,0 +1,3 @@
+include ':skin_changer'
+include ':app'
+rootProject.name = "SkinChanger"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- 主题颜色 默认皮肤 -->
+    <color name="wan_android_theme_color">#FF5252</color>
+    
+    <color name="wan_android_theme_color_dark_red">#8B0000</color>
+</resources>
