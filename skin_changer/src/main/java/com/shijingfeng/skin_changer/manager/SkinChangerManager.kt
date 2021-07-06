@@ -8,6 +8,7 @@ import android.content.res.AssetManager
 import android.content.res.Resources
 import android.view.View
 import androidx.annotation.WorkerThread
+import androidx.fragment.app.Fragment
 import com.shijingfeng.skin_changer.annotation.SkinType.APP_INTERNAL
 import com.shijingfeng.skin_changer.annotation.SkinType.PLUGIN
 import com.shijingfeng.skin_changer.processor.Processor
